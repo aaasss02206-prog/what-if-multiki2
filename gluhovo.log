@@ -1,0 +1,135 @@
+nohup: ignoring input
+
+🕯️ === СЕРИЯ 1: СЕМЬ ПРАВИЛ ===
+⏭️ ep01_sc001 уже готова, пропускаю...
+⏭️ ep01_sc002 уже готова, пропускаю...
+⏭️ ep01_sc003 уже готова, пропускаю...
+⏭️ ep01_sc004 уже готова, пропускаю...
+⏭️ ep01_sc005 уже готова, пропускаю...
+⏭️ ep01_sc006 уже готова, пропускаю...
+⏭️ ep01_sc007 уже готова, пропускаю...
+⏭️ ep01_sc008 уже готова, пропускаю...
+⏭️ ep01_sc009 уже готова, пропускаю...
+⏭️ ep01_sc010 уже готова, пропускаю...
+⏭️ ep01_sc011 уже готова, пропускаю...
+⏭️ ep01_sc012 уже готова, пропускаю...
+⏭️ ep01_sc013 уже готова, пропускаю...
+⏭️ ep01_sc014 уже готова, пропускаю...
+⏭️ ep01_sc015 уже готова, пропускаю...
+⏭️ ep01_sc016 уже готова, пропускаю...
+⏭️ ep01_sc017 уже готова, пропускаю...
+⏭️ ep01_sc018 уже готова, пропускаю...
+⏭️ ep01_sc019 уже готова, пропускаю...
+⏭️ ep01_sc020 уже готова, пропускаю...
+⏭️ ep01_sc021 уже готова, пропускаю...
+⏭️ ep01_sc022 уже готова, пропускаю...
+⏭️ ep01_sc023 уже готова, пропускаю...
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
+  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5c02437aa700] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'gluhovo_3d/concat_ep_1.txt':
+  Duration: N/A, start: -0.042667, bitrate: 1958 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 1867 kb/s, 24 fps, 24 tbr, 12288 tbn
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.31.102 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 91 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Output #0, mp4, to 'gluhovo_3d/SEM_PRAVIL_SERIYA_1.mp4':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 1867 kb/s, 24 fps, 24 tbr, 12288 tbn
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.31.102 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 91 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+size=       0kB time=-00:00:00.04 bitrate=  -0.0kbits/s speed=N/A    [mov,mp4,m4a,3gp,3g2,mj2 @ 0x5c02437aa700] Auto-inserting h264_mp4toannexb bitstream filter
+    Last message repeated 3 times
+[mp4 @ 0x5c0243847c00] Non-monotonic DTS in output stream 0:1; previous: 824384, current: 824000; changing to 824385. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5c02437aa700] Auto-inserting h264_mp4toannexb bitstream filter
+    Last message repeated 17 times
+[out#0/mp4 @ 0x5c02438ad8c0] video:44281kB audio:1886kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.169649%
+size=   46246kB time=00:02:45.62 bitrate=2287.3kbits/s speed= 759x    
+✅ Готово: gluhovo_3d/SEM_PRAVIL_SERIYA_1.mp4
+
+🕯️ === СЕРИЯ 2: КТО ПЁК БЛИНЫ ===
+🎥 ep02_sc001 [MAX | PANIC]: рендер...
+🎥 ep02_sc002 [MAX | FEAR]: рендер...
+🎥 ep02_sc003 [MAX | FEAR]: рендер...
+🎥 ep02_sc004 [BABUSHKA | FEAR]: рендер...
+🎥 ep02_sc005 [MAX | PANIC]: рендер...
+🎥 ep02_sc006 [BABUSHKA | PANIC]: рендер...
+🎥 ep02_sc007 [MAX | PANIC]: рендер...
+🎥 ep02_sc008 [MAX | CALM]: рендер...
+🎥 ep02_sc009 [MAX | SHOCK]: рендер...
+🎥 ep02_sc010 [MAX | SHOCK]: рендер...
+🎥 ep02_sc011 [MAX | FEAR]: рендер...
+🎥 ep02_sc012 [MAX | FEAR]: рендер...
+🎥 ep02_sc013 [BABUSHKA | SHOCK]: рендер...
+🎥 ep02_sc014 [MAX | SHOCK]: рендер...
+🎥 ep02_sc015 [MAX | PANIC]: рендер...
+🎥 ep02_sc016 [RADIO | SHOCK]: рендер...
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
+  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x61c966f5d980] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'gluhovo_3d/concat_ep_2.txt':
+  Duration: N/A, start: -0.042667, bitrate: 2075 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 1979 kb/s, 24 fps, 24 tbr, 12288 tbn
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.31.102 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 95 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Output #0, mp4, to 'gluhovo_3d/SEM_PRAVIL_SERIYA_2.mp4':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 1979 kb/s, 24 fps, 24 tbr, 12288 tbn
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.31.102 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 95 kb/s
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+size=       0kB time=-00:00:00.04 bitrate=  -0.0kbits/s speed=N/A    [mov,mp4,m4a,3gp,3g2,mj2 @ 0x61c966f5d980] Auto-inserting h264_mp4toannexb bitstream filter
+    Last message repeated 14 times
+[out#0/mp4 @ 0x61c966f64c00] video:34311kB audio:1274kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.147665%
+size=   35638kB time=00:01:54.53 bitrate=2549.0kbits/s speed= 659x    
+✅ Готово: gluhovo_3d/SEM_PRAVIL_SERIYA_2.mp4

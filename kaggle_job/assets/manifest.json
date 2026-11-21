@@ -1,0 +1,27 @@
+{
+  "character_bible": {
+    "hair": "spiky green hair",
+    "clothes": "red shirt with white apron",
+    "colors": "main colors are green, red, and white"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "type": "talk_gesture",
+      "scene_desc": "A dinosaur, Rex, stands in front of a pizza restaurant in the city",
+      "motion_prompt": "Rex waves his hands enthusiastically and smiles",
+      "text_ru": "Добро пожаловать в нашу пиццерию, друзья!",
+      "text_en": "Welcome to our pizzeria, friends!",
+      "gender": "male"
+    },
+    {
+      "scene_id": 2,
+      "type": "action",
+      "scene_desc": "Rex runs to deliver a hot pizza to a customer in the city",
+      "motion_prompt": "Rex runs quickly, holding a pizza tray and dodging obstacles",
+      "text_ru": "Вот ваша горячая пицца, наслаждайтесь!",
+      "text_en": "Here's your hot pizza, enjoy!",
+      "gender": "male"
+    }
+  ]
+}
