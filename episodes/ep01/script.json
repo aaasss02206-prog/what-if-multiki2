@@ -1,0 +1,239 @@
+[
+  {
+    "act": 1,
+    "spk": "narrator",
+    "emo": "shock",
+    "chars": [],
+    "vis": "Epic space shot of a massive 10-kilometer flaming asteroid narrowly missing prehistoric Earth by a few thousand kilometers, glowing blue atmosphere, dramatic cosmic lighting",
+    "text": "Шестьдесят шесть миллионов лет назад астероид уничтожил динозавров. Но что если он пролетел мимо всего на пару тысяч километров, а люди всё равно появились?"
+  },
+  {
+    "act": 1,
+    "spk": "narrator",
+    "emo": "calm",
+    "chars": [],
+    "vis": "Wide establishing shot of a breathtaking futuristic neon metropolis built by intelligent feathered dinosaurs, towering bioluminescent fern skyscrapers, flying biomechanical capsules, doors with curved tail-cutouts",
+    "text": "Добро пожаловать в Эпоху Чешуи и Неона. Хищные троодоны развили интеллект и построили мегаполисы, спроектированные под хвосты и когти рептилий."
+  },
+  {
+    "act": 1,
+    "spk": "narrator",
+    "emo": "calm",
+    "chars": [
+      "orion"
+    ],
+    "vis": "Medium shot inside Orion's cluttered high-tech paleontology lab, glowing holographic screens showing ancient mammal skulls, Orion adjusting his round wire-rimmed glasses while holding a fossil brush",
+    "text": "Знакомьтесь с Орионом — неуклюжим, но гениальным палеонтологом-динозавром. В его мире наука уверяет, что млекопитающие вымерли миллионы лет назад."
+  },
+  {
+    "act": 1,
+    "spk": "orion",
+    "emo": "fear",
+    "chars": [
+      "orion"
+    ],
+    "vis": "Close-up of Orion's amber reptilian eyes widening behind his round glasses as a red warning holo-alarm flashes over an empty glass containment pedestal in his lab",
+    "text": "Стоп… А куда делся мой плазменный стабилизатор?! Он же секунду назад лежал прямо на этом стенде!"
+  },
+  {
+    "act": 1,
+    "spk": "narrator",
+    "emo": "fear",
+    "chars": [
+      "orion"
+    ],
+    "vis": "Low-angle shot of Orion crouching on the metallic lab floor with his glowing wrist holo-scanner illuminating tiny muddy five-toed footprints leading toward an open floor ventilation grate",
+    "text": "На полу остались странные следы без когтей и отпечатка хвоста. Орион ещё не знает, что в тени этого мира эволюционировали люди."
+  },
+  {
+    "act": 2,
+    "spk": "narrator",
+    "emo": "calm",
+    "chars": [
+      "orion"
+    ],
+    "vis": "Comedic medium shot of 2-meter-tall feathered Orion squeezing his long tail and bulky vest into a narrow glowing maintenance tunnel beneath the floor",
+    "text": "Решив поймать таинственного воришку, двухметровый учёный спускается в туннели Нижнего сектора — туда, куда не заглядывают патрули ящеров."
+  },
+  {
+    "act": 2,
+    "spk": "kira",
+    "emo": "shock",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Dynamic action shot in the underground pipe junction: tiny agile Kira in her cable-stitched cloak leaps down from an overhead pipe onto Orion's back, holding a makeshift grappling hook and the glowing plasma stabilizer",
+    "text": "Руки вверх, пернатый! Ещё шаг — и я замкну твой же стабилизатор прямо на твой длинный хвост!"
+  },
+  {
+    "act": 2,
+    "spk": "orion",
+    "emo": "panic",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Comedic close-up of Orion's shocked face with crooked glasses as tiny Kira balances effortlessly on his shoulder pointing a sparking copper wrench at his nose",
+    "text": "Оно разговаривает! Подожди, не замыкай, я учёный, а не стражник! И вообще, ты же вымерла в меловом периоде!"
+  },
+  {
+    "act": 2,
+    "spk": "narrator",
+    "emo": "calm",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Close-up of Kira's nimble human hands rapidly rewiring the glowing core of the plasma stabilizer with copper wire in three seconds as Orion leans in utterly amazed",
+    "text": "Пока Орион пытается осознать увиденное, девушка по имени Кира за три секунды взламывает квантовый замок прибора обычной медной проволокой."
+  },
+  {
+    "act": 2,
+    "spk": "kira",
+    "emo": "fear",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Medium shot of Kira holding the plasma stabilizer protectively, glaring up at the 2-meter feathered dinosaur in the neon-lit tunnel",
+    "text": "Это вы наверху купаетесь в неоне и тепле, ящерица в очках! А наше племя внизу замерзает без генераторов. Идём, сам всё увидишь."
+  },
+  {
+    "act": 3,
+    "spk": "narrator",
+    "emo": "calm",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Wide magical shot of Kira pulling aside a curtain of glowing underground vines to reveal a hidden human sanctuary village built around warm geothermal vents, salvaged neon signs, and giant luminous mushrooms",
+    "text": "Вдали от глаз рептилий люди выживали так же, как первые млекопитающие в мезозое — прячась в глубоких норах и собирая выброшенные технологии."
+  },
+  {
+    "act": 3,
+    "spk": "orion",
+    "emo": "shock",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Heartwarming medium shot of 2-meter feathered Orion crouching down gently as curious human children touch his bright teal wing feathers while Kira smiles nearby",
+    "text": "Невероятно… Вся официальная наука ящеров веками врала нам. Вы не тупые вредители — у вас настоящая цивилизация!"
+  },
+  {
+    "act": 3,
+    "spk": "elder_man",
+    "emo": "calm",
+    "chars": [
+      "orion"
+    ],
+    "vis": "Close-up of a wise elderly human mechanic with grey beard and welding goggles sitting by a warm steam stove, speaking seriously to Orion",
+    "text": "Правители наверху боятся признать, что у Земли два разумных хозяина, Орион. Им проще считать нас тенями в подвале."
+  },
+  {
+    "act": 3,
+    "spk": "narrator",
+    "emo": "calm",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Cozy evening shot on a platform overlooking the glowing underground village, Orion and Kira sitting side by side sharing roasted root-fruits, comparing star charts on Orion's wrist holo-projector",
+    "text": "Впервые два совершенно разных вида находят общий язык. Но их хрупкому миру остаётся жить считанные часы."
+  },
+  {
+    "act": 4,
+    "spk": "council_voice",
+    "emo": "panic",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Dramatic red-lit shot as red emergency sirens suddenly flash across the underground pipes and a giant hologram of the Reptile High Council broadcasts an urgent warning",
+    "text": "Внимание всем гражданам Мезозой-Сити! К орбите Земли приближается гигантский астероид диаметром десять километров! Столкновение неизбежно!"
+  },
+  {
+    "act": 4,
+    "spk": "narrator",
+    "emo": "shock",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Close-up of Orion staring in horror at his wrist holo-scanner projecting the trajectory of a flaming asteroid hurtling toward Earth",
+    "text": "Ирония судьбы: тот самый космический булыжник, который промахнулся шестьдесят шесть миллионов лет назад, всё-таки настиг Землю."
+  },
+  {
+    "act": 4,
+    "spk": "orion",
+    "emo": "shock",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Dramatic close-up of Orion hacking into a classified golden hologram file labeled 'PROTOCOL ARK' showing giant starships boarding only dinosaurs while leaving Earth below",
+    "text": "Я взломал секретный протокол «Ковчег»… О нет, Кира! Совет построил орбитальные корабли, но места там только для рептилий! Они бросают людей погибать!"
+  },
+  {
+    "act": 4,
+    "spk": "kira",
+    "emo": "shock",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Emotional close-up of Kira stepping back with hurt and anger in her green eyes as Orion looks devastated",
+    "text": "Вот и вся цена вашей великой науки, профессор… Лети в свой космос. Твоё место на корабле уже ждёт тебя."
+  },
+  {
+    "act": 5,
+    "spk": "narrator",
+    "emo": "fear",
+    "chars": [
+      "orion"
+    ],
+    "vis": "Grand cinematic wide shot of the Reptile Spaceport at night under a crimson sky with the glowing asteroid visible among the stars, armed raptor guards escorting VIP scientists up the ramp of a massive silver Ark starship",
+    "text": "На космодроме уже запущены двигатели последнего ковчега. У Ориона в руке билет в спасение, но он делает выбор, который изменит историю планеты."
+  },
+  {
+    "act": 5,
+    "spk": "orion",
+    "emo": "shock",
+    "chars": [
+      "orion"
+    ],
+    "vis": "Heroic close-up of Orion crushing his glowing golden VIP boarding pass in his clawed hand and leaping onto a sleek biomechanical cargo glider",
+    "text": "К чёрту ваш «Ковчег»! Настоящий учёный не убегает от катастрофы — он меняет расчёты! Держись, Кира, я возвращаюсь!"
+  },
+  {
+    "act": 5,
+    "spk": "orion",
+    "emo": "shock",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Inspiring medium two-shot in the underground sanctuary: Orion unfurling a massive glowing holographic blueprint of a planetary plasma deflector while Kira grabs her copper tools with a fierce grin",
+    "text": "У нас есть мой плазменный стабилизатор и твои гениальные руки, Кира! Мы не будем прятаться — мы вместе сдвинем этот астероид с орбиты!"
+  },
+  {
+    "act": 5,
+    "spk": "kira",
+    "emo": "calm",
+    "chars": [
+      "orion",
+      "kira"
+    ],
+    "vis": "Epic final shot of 2-meter feathered Orion and agile Kira bumping fist to claw in front of a giant glowing energy core as the whole human tribe cheers behind them",
+    "text": "Договорились, пернатый! Покажем этим ящерам наверху, на что способны чешуя и смекалка, когда они работают заодно!"
+  },
+  {
+    "act": 5,
+    "spk": "narrator",
+    "emo": "shock",
+    "chars": [],
+    "vis": "Dramatic wide shot of Earth from orbit with the fiery asteroid approaching and a beam of cyan plasma energy charging up from the planet surface",
+    "text": "Смогут ли динозавр и девушка из подземелья спасти Землю? Подписывайся на канал «Что если…» и пиши в комментариях, какой мир нам проверить следующим!"
+  }
+]
