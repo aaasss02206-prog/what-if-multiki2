@@ -1,0 +1,8 @@
+{
+  "speaker": "max",
+  "engine": "edge-tts",
+  "base_voice": "ru-RU-DmitryNeural",
+  "pitch": "+6Hz",
+  "timbre": 1.07,
+  "style": "energetic young cartoon hero"
+}

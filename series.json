@@ -1,0 +1,27 @@
+{
+  "title": "Семь правил (Деревня Глухово)",
+  "art_style": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, 8k",
+  "rules": {
+    "no_sprite_overlay": true,
+    "real_time_storytelling": true,
+    "auto_cartoon_voice": true,
+    "batch_mode": "part_by_part"
+  },
+  "characters": [
+    "max",
+    "babushka",
+    "mihalych"
+  ],
+  "episodes": {
+    "ep01": {
+      "title": "Семь правил",
+      "parts": 5,
+      "status": "ready_to_build"
+    },
+    "ep02": {
+      "title": "Утренние блины",
+      "parts": 5,
+      "status": "planned"
+    }
+  }
+}

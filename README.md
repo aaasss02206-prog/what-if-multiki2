@@ -1,2 +1,2 @@
-# what-if-multiki2
-What-if мультики
+# My Cartoon Series — AI Animation Studio
+Автоматизированная студия производства 2D-мультсериала с едиными персонажами и мультяшной озвучкой.

@@ -1,0 +1,8 @@
+{
+  "speaker": "babushka",
+  "engine": "edge-tts",
+  "base_voice": "ru-RU-SvetlanaNeural",
+  "pitch": "-4Hz",
+  "timbre": 0.95,
+  "style": "warm mysterious cartoon grandmother"
+}

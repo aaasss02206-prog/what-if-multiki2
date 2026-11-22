@@ -1,0 +1,8 @@
+{
+  "speaker": "mihalych",
+  "engine": "edge-tts",
+  "base_voice": "ru-RU-DmitryNeural",
+  "pitch": "-12Hz",
+  "timbre": 0.85,
+  "style": "deep gruff cartoon neighbor"
+}
