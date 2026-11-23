@@ -1,0 +1,298 @@
+{
+  "slug": "gluhovo-s1",
+  "title": "7 правил на одну ночь • Серия 1: Глухово",
+  "language": "ru",
+  "length": "short",
+  "hero": "max",
+  "subtitles": "on",
+  "shots": [
+    {
+      "beat": "hook",
+      "say": "Меня зовут Макс. Прошлой зимой я провёл одну ночь в деревне Глухово — и до сих пор не знаю, кто утром испёк блины.",
+      "pause": 0.4,
+      "bg": "street",
+      "time": "night",
+      "camera": {
+        "size": "wide",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 46,
+          "pose": "stand",
+          "mood": "think"
+        }
+      ],
+      "text": {
+        "value": "ДЕРЕВНЯ ГЛУХОВО • ЗИМА",
+        "style": "title",
+        "pos": "top"
+      },
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "fact",
+      "say": "Двадцать домов в сугробах, и свет горит только в двух: у бабушки и напротив — у соседа Михалыча.",
+      "pause": 0.3,
+      "bg": "street",
+      "time": "night",
+      "camera": {
+        "size": "medium",
+        "move": "pan-left"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 38,
+          "pose": "wave",
+          "mood": "neutral"
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "rules",
+      "say": "Бабушка накормила меня горячим борщом, но всё время тревожно смотрела на часы и на тёмный лес за огородом.",
+      "pause": 0.3,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "medium",
+        "move": "static"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 55,
+          "pose": "think",
+          "mood": "think"
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "small",
+      "say": "В шесть вечера зазвонил телефон. Сестре плохо, нужно срочно ехать на вечерний автобус — но дом в эту ночь нельзя оставлять пустым.",
+      "pause": 0.3,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "close",
+        "on": "max",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 48,
+          "pose": "listen",
+          "mood": "shock"
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "rules",
+      "say": "Она вырвала лист из тетради, десять минут писала правила, шевеля губами, и прижала листок магнитом к холодильнику.",
+      "pause": 0.3,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "medium",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 45,
+          "pose": "point",
+          "mood": "think"
+        }
+      ],
+      "text": {
+        "value": "7 ПРАВИЛ НА ОДНУ НОЧЬ",
+        "style": "title",
+        "pos": "bottom"
+      },
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "rules",
+      "say": "После одиннадцати никому не открывать. Пока у Михалыча горит свет — всё хорошо. После полуночи не смотреть в зеркало. Блины, радио, квест какой-то!",
+      "pause": 0.3,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "medium",
+        "move": "static"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 50,
+          "pose": "think",
+          "mood": "wink"
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "bigger",
+      "say": "Пальцы у неё были ледяные: «Максим, не думай — просто делай всё строго как написано». В семь вечера её автобус скрылся за поворотом.",
+      "pause": 0.4,
+      "bg": "street",
+      "time": "night",
+      "camera": {
+        "size": "wide",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 50,
+          "pose": "stand",
+          "mood": "shock"
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "dark",
+      "say": "В одиннадцать десять в дверь постучали три раза. Медленно и тяжело. «Макс, открой, это Михалыч, бабушка просила печку проверить!»",
+      "pause": 0.3,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "close",
+        "on": "max",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 42,
+          "pose": "listen",
+          "mood": "shock"
+        }
+      ],
+      "text": {
+        "value": "23:10 • ПРАВИЛО ПЕРВОЕ",
+        "style": "title",
+        "pos": "top"
+      },
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "dark",
+      "say": "Я уже взялся за засов, но глянул в окно через дорогу: там в жёлтом свете за столом сидел сам Михалыч в майке и пил чай!",
+      "pause": 0.3,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "medium",
+        "move": "pan-left"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 36,
+          "pose": "point",
+          "mood": "shock"
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "dark",
+      "say": "Через десять минут стук стих. Я выглянул в окно: следы на снегу вели прямо от тёмного леса к нашему крыльцу — а обратно следов не было.",
+      "pause": 0.4,
+      "bg": "street",
+      "time": "night",
+      "camera": {
+        "size": "wide",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 55,
+          "pose": "think",
+          "mood": "shock"
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "dark",
+      "say": "Без двенадцати свет в окне у Михалыча мигнул и погас. Правило второе: если свет погас — закрой все пять деревянных ставен изнутри и не смотри в окна.",
+      "pause": 0.3,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "medium",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 48,
+          "pose": "point",
+          "mood": "shock"
+        }
+      ],
+      "text": {
+        "value": "23:48 • ПРАВИЛО ВТОРОЕ",
+        "style": "title",
+        "pos": "top"
+      },
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "dark",
+      "say": "Кухня, комната, спальня, сени… Когда я накидывал последний крючок, снаружи по ставне тихо постучали одним пальцем: тук.",
+      "pause": 0.3,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "close",
+        "on": "max",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 50,
+          "pose": "listen",
+          "mood": "shock"
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "beat": "question",
+      "say": "Тук — в спальне. Тук — в комнате. Тук — на кухне. Кто-то медленно шёл вокруг дома и пересчитывал окна. Пять окон — пять ударов. А часы пробили полночь.",
+      "pause": 0.5,
+      "bg": "room",
+      "time": "night",
+      "camera": {
+        "size": "wide",
+        "move": "push"
+      },
+      "actors": [
+        {
+          "who": "max",
+          "x": 50,
+          "pose": "listen",
+          "mood": "shock"
+        }
+      ],
+      "text": {
+        "value": "00:00 • КОНЕЦ 1 СЕРИИ",
+        "style": "title",
+        "pos": "bottom"
+      },
+      "sfx": "whoosh"
+    }
+  ]
+}

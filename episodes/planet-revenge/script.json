@@ -1,0 +1,814 @@
+{
+  "title": "Что если планета ожила и начала мстить человечеству",
+  "subtitle": "Научно-фантастический разбор, основанный на реальных данных",
+  "duration_target": 480,
+  "style": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo",
+  "characters": {
+    "max": "Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans",
+    "babushka": "Babushka Praskovya, a 70-year-old Russian grandmother with grey hair tied in a bun, round wire-rimmed glasses, a patterned wool headscarf and a warm knitted shawl over a cozy dress"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "act": 0,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "awe",
+      "text": "2024 год стал первым календарным годом, когда Земля превысила полтора градуса.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Wide orbital view of Earth at sunrise, thin blue atmosphere glowing, continents dark, ocean deep blue, a faint red heat shimmer over the atmosphere, awe and unease"
+    },
+    {
+      "id": 2,
+      "act": 0,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "wonder",
+      "text": "Но что, если планета — не камень, а живая система, которая уже начала отвечать?",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Earth's surface seen from orbit transforming into a living network: glowing green forests, blue ocean currents, white clouds linked by bioluminescent filaments, symbolic but natural, no literal face"
+    },
+    {
+      "id": 3,
+      "act": 0,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "wonder",
+      "text": "Не богиня и не чудовище. Сеть океанов, лесов, микробов и льда, способная держать равновесие.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Cutaway scientific illustration of the whole Earth as one organism: ocean currents like veins, forests like lungs, ice caps like armor, microbes glowing in soil, elegant 2D painted diagram without labels"
+    },
+    {
+      "id": 4,
+      "act": 0,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "В семидесятых Джеймс Лавлок и Линн Маргулис назвали эту идею гипотезой Геи.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Warm 1970s wooden study at night, stacks of scientific papers, a globe, a magnifying glass and a brass lamp, empty chair, dust in the lamplight, retro atmosphere, no people"
+    },
+    {
+      "id": 5,
+      "act": 0,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Их модель «Маргаритковый мир» показала: температура может стабилизироваться без всякого разума.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Daisyworld parable: a small planet covered in black and white daisies, a bright sun, delicate temperature balance shown by warm and cool light bands, storybook science illustration, no text"
+    },
+    {
+      "id": 6,
+      "act": 0,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "Но у саморегуляции есть предел. И человечество только что к нему подошло.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A modern coastal city at dusk, a colossal dark storm wall approaching from the sea, tiny warm windows, palm trees bending, cinematic scale, ominous but beautiful"
+    },
+    {
+      "id": 7,
+      "act": 1,
+      "spk": "max",
+      "chars": [
+        "max"
+      ],
+      "emotion": "anxiety",
+      "text": "Станция «Север-7». Океан теплее нормы на четыре градуса. Это уже не аномалия.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans. Max stands inside a high-tech Arctic climate observatory at night, hands on a glowing control console, red warning light on his face, huge storm waves crashing against reinforced glass behind him, medium shot"
+    },
+    {
+      "id": 8,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Океан поглотил около девяноста процентов лишнего тепла, которое люди выпустили в атмосферу.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Cross-section of the ocean at sunset, warm surface water sinking into deep blue layers, shafts of sunlight, schools of fish silhouettes, heat shown as soft amber glow in the water"
+    },
+    {
+      "id": 9,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "unease",
+      "text": "Это не спасение. Это долг, который планета записала в воду.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Deep dark ocean with glowing red-orange current veins like a nervous system, pale coral silhouettes, particles floating, beautiful and unsettling"
+    },
+    {
+      "id": 10,
+      "act": 1,
+      "spk": "babushka",
+      "chars": [
+        "babushka"
+      ],
+      "emotion": "worry",
+      "text": "Максим, у нас третий день ветер, а в погребе вода. Ты говорил, это к чему?",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Babushka Praskovya, a 70-year-old Russian grandmother with grey hair tied in a bun, round wire-rimmed glasses, a patterned wool headscarf and a warm knitted shawl over a cozy dress. Babushka stands in a cozy wooden village kitchen, holding an old telephone, rain streaming down the window, warm lamp light, worried expression, medium shot"
+    },
+    {
+      "id": 11,
+      "act": 1,
+      "spk": "max",
+      "chars": [
+        "max"
+      ],
+      "emotion": "fear",
+      "text": "Бабушка, это не просто ветер. Тёплый океан кормит шторма влагой. Уходи из погреба.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans. Max in the observatory holding a phone to his ear, worried face lit by console glow, storm data shown as abstract waveforms on screens, rain lashing the window, close medium shot"
+    },
+    {
+      "id": 12,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Каждый градус добавляет атмосфере около семи процентов водяного пара.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A village under a towering storm sky, curtains of rain, water vapor over the fields drawn as faint glowing ribbons, birch trees bent by wind, dramatic"
+    },
+    {
+      "id": 13,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "Больше влаги — больше дождя, больше энергии и более быстрые ураганы.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A huge hurricane spiral over a dark ocean seen from above, one tiny ship, lightning flickering in the eyewall, immense scale, no text"
+    },
+    {
+      "id": 14,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "shock",
+      "text": "В 2023 году ураган «Отис» за двенадцать часов усилился до пятой категории.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Night satellite-like view of a compact hurricane approaching a coastline, warm city lights below, cold blue storm above, powerful and silent"
+    },
+    {
+      "id": 15,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "Это не рекорд. Это новая скорость.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Coastal city street hit by a storm surge, palm trees almost horizontal, spray and debris in the air, people running to shelter in the distance, cinematic motion"
+    },
+    {
+      "id": 16,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "sadness",
+      "text": "Кораллы первыми чувствуют жару. В 2023-2024 годах началось четвёртое глобальное обесцвечивание.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Underwater coral reef with large patches of bleached white coral among healthy purple and orange corals, turquoise water, sun rays, quiet tragedy"
+    },
+    {
+      "id": 17,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "sadness",
+      "text": "Более восьмидесяти процентов рифов попали под стресс температур.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Wide underwater panorama of a stressed reef, pale coral skeletons stretching into the blue, a few small fish, soft light from above"
+    },
+    {
+      "id": 18,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "sadness",
+      "text": "Рифы кормят четверть морских видов. Их смерть — не эстетика, а обвал системы.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Dead reef slope with murky water and few fish, a small research submersible light sweeping over white coral, sense of collapse"
+    },
+    {
+      "id": 19,
+      "act": 1,
+      "spk": "max",
+      "chars": [
+        "max"
+      ],
+      "emotion": "determination",
+      "text": "Если океан — кровь планеты, то кораллы — её капилляры. И они уже лопаются.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans. Close-up of Max in the observatory looking at a floating holographic model of a reef, blue light on his face, reflection of coral in his grey eyes, determined and sad"
+    },
+    {
+      "id": 20,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "unease",
+      "text": "Планета не мстит. Она реагирует. Но для нас эта реакция выглядит как месть.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Earth from space with storm systems curling into a vast spiral like an eye, natural clouds and lightning, symbolic without a literal face"
+    },
+    {
+      "id": 21,
+      "act": 1,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "Вопрос не в том, злится ли Земля. Вопрос в том, что будет, когда её механизмы сработают против нас.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Dark clouds covering a whole hemisphere, lightning arcing between them, a thin band of sunrise on the horizon, planetary scale, ominous"
+    },
+    {
+      "id": 22,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "unease",
+      "text": "Следующий удар приходит из земли, которая всегда была мёрзлой.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Arctic tundra in low golden light, thawing ground with dark wet patches, methane bubbles trapped under thin ice, distant mountains, cold and fragile"
+    },
+    {
+      "id": 23,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "awe",
+      "text": "В вечной мерзлоте заперто около 1 500 миллиардов тонн углерода — почти вдвое больше, чем в атмосфере.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Cross-section of permafrost: ancient plants and mammoth bones locked in dark ice, carbon-rich soil shown as deep amber veins, scientific storybook style"
+    },
+    {
+      "id": 24,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "Арктика нагревается в три-четыре раза быстрее остальной планеты.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. View of the Arctic from space, a red-orange heat bloom over the polar region, surrounding oceans deep blue, thin clouds, climate visualization without text"
+    },
+    {
+      "id": 25,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "wonder",
+      "text": "Когда мерзлота тает, микробы просыпаются и превращают углерод в метан и углекислый газ.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Microscopic dreamlike view of ancient microbes awakening in thawed soil, glowing methane bubbles rising, roots and ice crystals, magical realism, 2D"
+    },
+    {
+      "id": 26,
+      "act": 2,
+      "spk": "max",
+      "chars": [
+        "max"
+      ],
+      "emotion": "worry",
+      "text": "Сенсоры показывают выброс метана там, где его не должно быть. Мерзлота дышит.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans. Max in a heavy Arctic field jacket over his grey hoodie, kneeling beside a bubbling puddle in thawed tundra, holding a sensor, breath fogging, worried, wide shot"
+    },
+    {
+      "id": 27,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Это обратная связь: чем теплее, тем больше газа, тем теплее снова.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Circular feedback loop illustrated with tundra, sun, methane bubbles and clouds connected by glowing arrows of light, elegant 2D science diagram, no text"
+    },
+    {
+      "id": 28,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "shock",
+      "text": "Лес тоже перестаёт быть союзником. В 2023 году Канада горела на 18,5 миллиона гектаров.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Massive boreal wildfire at dusk, a towering smoke column, orange sky, silhouettes of firefighters and a water bomber tiny against the flames, epic scale"
+    },
+    {
+      "id": 29,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "sadness",
+      "text": "Это почти в шесть раз больше обычного.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Charred boreal forest after a fire, blackened trunks, ash falling like snow, faint embers, a single green seedling in the foreground, quiet grief"
+    },
+    {
+      "id": 30,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "sadness",
+      "text": "Пожар не только выпускает углерод. Он уничтожает лес, который его поглощал.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Smoldering forest edge with a living green patch beside burned land, a deer fleeing through smoke, contrast of life and loss, cinematic"
+    },
+    {
+      "id": 31,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "worry",
+      "text": "Амазония подходит к порогу. Уже вырублено около семнадцати процентов.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Aerial view of the Amazon rainforest with geometric deforestation patterns, a wide river, smoke on the horizon, layers of green and exposed soil"
+    },
+    {
+      "id": 32,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "При двадцати-двадцати пяти процентах восточная часть может начать высыхать и превращаться в саванну.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Amazon riverbed cracked and dry, dead trees, transition from dense rainforest to open savanna in one continuous landscape, harsh light, climate threshold"
+    },
+    {
+      "id": 33,
+      "act": 2,
+      "spk": "babushka",
+      "chars": [
+        "babushka"
+      ],
+      "emotion": "worry",
+      "text": "Внучек, у нас дождь стеной, а в новостях говорят, что где-то реки пересохли. Как так?",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Babushka Praskovya, a 70-year-old Russian grandmother with grey hair tied in a bun, round wire-rimmed glasses, a patterned wool headscarf and a warm knitted shawl over a cozy dress. Babushka sits in a dark village room lit by a flickering television, rain hammering the window, phone in her hand, anxious face, warm and cold light contrast"
+    },
+    {
+      "id": 34,
+      "act": 2,
+      "spk": "max",
+      "chars": [
+        "max"
+      ],
+      "emotion": "determination",
+      "text": "Это и есть климат: где-то слишком много воды, где-то слишком мало. Среднее больше не помогает.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans. Max stands at the observatory window, one side of the sky a black storm, the other a dry amber haze, his reflection ghostly in the glass, thoughtful"
+    },
+    {
+      "id": 35,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Лёд — ещё один щит. Он отражает солнечный свет обратно в космос.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. White Arctic sea ice stretching to the horizon, low sun, mirror-like melt ponds, blue shadows, pristine and fragile"
+    },
+    {
+      "id": 36,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "unease",
+      "text": "Когда лёд тает, океан поглощает тепло, и таяние ускоряется.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A melting ice floe surrounded by dark open water, sunbeams hitting the water, bright ice and dark sea contrast, albedo feedback visible"
+    },
+    {
+      "id": 37,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "awe",
+      "text": "Гренландия теряет сотни миллиардов тонн льда в год.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Greenland glacier calving into the sea, massive blue-white ice cliffs, chunks falling, spray, cold light, immense scale"
+    },
+    {
+      "id": 38,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "worry",
+      "text": "С 2006 года уровень моря растёт на 3,7 миллиметра в год — вдвое быстрее, чем в XX веке.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A calm coastal city at high tide, water halfway up a sea wall, a height marker like a natural ruler, reflections, quiet threat, no text"
+    },
+    {
+      "id": 39,
+      "act": 2,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "unease",
+      "text": "Миллиметры звучат безобидно. Пока не посмотреть на карту мегаполисов.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Flooded street in a coastal megacity, people with umbrellas wading, an elevated train passing, neon reflections in the water, resilient daily life, no panic"
+    },
+    {
+      "id": 40,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "awe",
+      "text": "Шанхай, Джакарта, Майами, Лагос — десятки миллионов людей у кромки воды.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Aerial view of a dense coastal megacity at high tide, skyscrapers, sea wall, harbor cranes, water pressing against the city, golden dusk light"
+    },
+    {
+      "id": 41,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "mystery",
+      "text": "Но самый опасный механизм спрятан в Атлантике.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. North Atlantic ocean under a storm, dark waves, faint current lines glowing turquoise beneath the surface, rain and mist, vast and cold"
+    },
+    {
+      "id": 42,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Атлантическая меридиональная циркуляция переносит тепло с юга на север.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Cross-section of the Atlantic Ocean conveyor belt: warm red surface current flowing north, cold blue deep current returning south, continents at the edges, scientific 2D illustration without text"
+    },
+    {
+      "id": 43,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "unease",
+      "text": "Она ослабла до самого низкого уровня за тысячу лет.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Weak, fragmented ocean current deep underwater, cold blue dominating, faint warm glow fading, particles drifting, melancholy"
+    },
+    {
+      "id": 44,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "Если она остановится, Европа замёрзнет, а тропики получат другие дожди.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. One continuous wide panorama: snowbound Europe on the left, dry cracked tropical land on the right, a pale sun between them, climate interconnection, cinematic"
+    },
+    {
+      "id": 45,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Некоторые оценки допускают коллапс в этом веке. Другие считают его маловероятным.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Scientists of different ages around a glowing holographic globe in a dark lab, debating, diverse silhouettes and faces, no recognizable real people, cool blue light"
+    },
+    {
+      "id": 46,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "determination",
+      "text": "Наука спорит о сроках. Но не о том, что риск реален.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A giant natural seesaw balanced on a knife edge, with ice, forest, coral and permafrost on one side and a human city on the other, symbolic, cinematic, no text"
+    },
+    {
+      "id": 47,
+      "act": 3,
+      "spk": "max",
+      "chars": [
+        "max"
+      ],
+      "emotion": "fear",
+      "text": "Это как дышать через трубочку, бабушка. Пока работает — незаметно. Откажет — поздно.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans. Max leans against a corridor wall in the observatory, phone to his ear, exhausted, red emergency lights pulsing, storm shadows moving on the walls"
+    },
+    {
+      "id": 48,
+      "act": 3,
+      "spk": "babushka",
+      "chars": [
+        "babushka"
+      ],
+      "emotion": "determination",
+      "text": "Тогда скажи, что делать. Я старая, но не хочу, чтобы ты жил в мире, где это норма.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Babushka Praskovya, a 70-year-old Russian grandmother with grey hair tied in a bun, round wire-rimmed glasses, a patterned wool headscarf and a warm knitted shawl over a cozy dress. Babushka holds the phone with both hands in candlelight, her face determined, rain outside, icons and a knitted shawl around her shoulders, intimate close shot"
+    },
+    {
+      "id": 49,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Среди учёных есть неудобная правда: планета уже переживала такие кризисы.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Layered geological strata with fossils embedded, warm rock layers, deep time visible, a thin blue sky above, painterly and humbling"
+    },
+    {
+      "id": 50,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "awe",
+      "text": "56 миллионов лет назад выброс углерода нагрел Землю на пять-восемь градусов.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Prehistoric PETM landscape: a warm ocean, strange early mammals at the shore, palm trees near the poles, red-orange sky, humid haze, scientific reconstruction in 2D"
+    },
+    {
+      "id": 51,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "sadness",
+      "text": "Океаны закислились, а морские организмы вымирали.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Shelled sea creatures in acidified water, their shells thinning and dissolving into soft light, not gory, melancholy underwater scene"
+    },
+    {
+      "id": 52,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "shock",
+      "text": "252 миллиона лет назад Великое вымирание убило до девяноста процентов видов.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Barren Permian landscape under a red sky, dead sea, volcanic horizon, ash falling, empty and apocalyptic but not gory"
+    },
+    {
+      "id": 53,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Планета выжила. Биосфера восстановилась. Но на это ушли миллионы лет.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Fresh green shoots growing over ancient cracked rock, sunrise breaking through clouds, time-lapse feeling of recovery, hopeful"
+    },
+    {
+      "id": 54,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "wonder",
+      "text": "Люди появились только в последние мгновения этой истории.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A small human campfire under a vast starry sky in a deep canyon, Milky Way overhead, tiny human scale against deep time, warm and cold contrast"
+    },
+    {
+      "id": 55,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "shock",
+      "text": "В 2023 году учёные подсчитали: человечество пересекло шесть из девяти планетарных границ.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Earth surrounded by nine glowing planetary boundary rings, six of them red and stressed, three green, elegant 2D visualization, no text"
+    },
+    {
+      "id": 56,
+      "act": 3,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "unease",
+      "text": "Климат, биосфера, земля, пресная вода, азот и фосфор, новые вещества.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Symbolic collage of six stressed Earth systems in one painted panorama: drought, burned forest, cracked land, polluted river, algae bloom, plastic waste, no text"
+    },
+    {
+      "id": 57,
+      "act": 3,
+      "spk": "max",
+      "chars": [
+        "max"
+      ],
+      "emotion": "determination",
+      "text": "Это не прогноз. Это бухгалтерия ущерба.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans. Max reads a holographic report in a dark room, tired eyes, reflection of data on the glass, grey hoodie, intimate medium close-up"
+    },
+    {
+      "id": 58,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "При 1,5 градусах уже рискуют запуститься несколько необратимых процессов.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Dominoes made of ice, coral, forest and permafrost falling in sequence across a miniature landscape, first one tipping, dramatic light, no text"
+    },
+    {
+      "id": 59,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "unease",
+      "text": "Наука называет их точками перелома: после них система меняет состояние сама.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A giant natural seesaw tipping past the balance point, landscape shifting, clouds swirling, symbolic of a tipping point, cinematic"
+    },
+    {
+      "id": 60,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "fear",
+      "text": "Сценарий «Теплица-Земля»: потепление продолжается даже после остановки выбросов.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Hothouse Earth: orange sky, steaming shallow oceans, lush but alien vegetation, distant lightning, beautiful and wrong"
+    },
+    {
+      "id": 61,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Не потому что планета злая. Потому что обратные связи уже включились.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Glowing feedback chains wrapped around the globe: fire, methane, melting ice and clouds linked in a loop, symbolic, dramatic, no text"
+    },
+    {
+      "id": 62,
+      "act": 4,
+      "spk": "max",
+      "chars": [
+        "max"
+      ],
+      "emotion": "determination",
+      "text": "Значит, мы не пассажиры. Мы — тот, кто нажал на педаль.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans. Extreme close-up of Max's face, fire reflected in his grey eyes, jaw set, sparks floating, dark background, determined"
+    },
+    {
+      "id": 63,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Но у планеты нет сознания. Нет злобы. Нет плана нас наказать.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Earth from orbit, calm and indifferent, thin blue atmosphere, no storms, vast black space, quiet perspective"
+    },
+    {
+      "id": 64,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Есть только физика. И система, которая всегда возвращается к равновесию.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A natural balance scale made of ocean, forest, ice and atmosphere, perfectly poised, soft light, elegant 2D symbolism, no text"
+    },
+    {
+      "id": 65,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Вопрос лишь в том, будет ли человек частью нового равновесия.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A lone human silhouette on a cliff at dawn, facing a vast restored landscape of forest, river and mountains, hope and humility"
+    },
+    {
+      "id": 66,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Гея не гарантирует нам жизнь. Она гарантирует жизнь системе.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A flourishing biosphere around an abandoned city: vines on towers, birds in the streets, wildflowers in cracked asphalt, ambiguous beauty"
+    },
+    {
+      "id": 67,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "sadness",
+      "text": "Иногда эта система убивала почти всё живое. Без злости. Просто по правилам.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Volcanic winter: ash clouds darkening the sky, cold dark ocean, snow falling on black rock, grim and quiet"
+    },
+    {
+      "id": 68,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "И это самый честный ответ на вопрос, мстит ли планета.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Earth's horizon at sunrise, half in darkness and half in warm light, thin atmosphere, contemplative, no text"
+    },
+    {
+      "id": 69,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Хорошая новость: точки перелома работают в обе стороны.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A tipping point reversing: green shoots spreading over dry land, people planting trees on a hillside, warm morning light, hopeful"
+    },
+    {
+      "id": 70,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Каждые 0,1 градуса имеют значение. Каждый год имеет значение.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Close-up of tree rings beside natural thermometer-like ice and rock forms, warm sunlight, abstract sense of time and temperature, no text"
+    },
+    {
+      "id": 71,
+      "act": 4,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Чтобы удержать 1,5 градуса, выбросы должны упасть почти вдвое к 2030 году.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Wind turbines and solar panels replacing an old coal plant, workers in the foreground, clear blue sky, transition of energy, hopeful"
+    },
+    {
+      "id": 72,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Метан можно сократить на 45 процентов за десять лет — это самый быстрый тормоз.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Workers sealing a methane leak on gas infrastructure, blue sky, tools and pipes, clean industrial scene, no text"
+    },
+    {
+      "id": 73,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Леса, торфяники и мангровые заросли хранят углерод лучше любой технологии.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Restored wetland and mangroves, rich green, birds, still water reflecting clouds, thriving ecosystem"
+    },
+    {
+      "id": 74,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Но одного восстановления мало. Нужна энергетика без дыма.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Futuristic clean city with trams, green roofs, wind turbines and pedestrians, bright morning, optimistic but realistic"
+    },
+    {
+      "id": 75,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "И адаптация: города у воды, дома на сваях, тени, вода, предупреждения.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Climate-adapted coastal city: elevated houses on stilts, green streets, water taxis, shade trees, sea wall, people living with water"
+    },
+    {
+      "id": 76,
+      "act": 5,
+      "spk": "babushka",
+      "chars": [
+        "babushka",
+        "max"
+      ],
+      "emotion": "warmth",
+      "text": "Значит, внучек, ты не спасаешь планету. Ты просишь у неё ещё немного времени.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans and Babushka Praskovya, a 70-year-old Russian grandmother with grey hair tied in a bun, round wire-rimmed glasses, a patterned wool headscarf and a warm knitted shawl over a cozy dress. Babushka and Max sit on a village porch with tea, storm clouds breaking behind them, warm lantern light, two-shot, intimate"
+    },
+    {
+      "id": 77,
+      "act": 5,
+      "spk": "max",
+      "chars": [
+        "max",
+        "babushka"
+      ],
+      "emotion": "warmth",
+      "text": "Наверное. Планета проживёт и без нас. А вот мы без неё — нет.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The scene features Max, a 20-year-old pale Russian young man with short messy dark brown hair, expressive grey eyes, thin build, wearing a dark grey zip-up hoodie and dark jeans and Babushka Praskovya, a 70-year-old Russian grandmother with grey hair tied in a bun, round wire-rimmed glasses, a patterned wool headscarf and a warm knitted shawl over a cozy dress. Max and Babushka stand together at golden hour in the village, Max in his grey hoodie, Babushka in her shawl and headscarf, warm sunlight, two-shot"
+    },
+    {
+      "id": 78,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "shock",
+      "text": "В истории Земли было пять массовых вымираний. Шестое — наше.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Fossil layers with a human artifact embedded among ancient bones, dark earth, soft museum light, haunting, no text"
+    },
+    {
+      "id": 79,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Но впервые вид знает, что происходит, и может выбрать иначе.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Close-up of a human hand planting a young tree in dark soil, sunlight through leaves, hopeful, detailed 2D"
+    },
+    {
+      "id": 80,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Планета не мстит. Она лечится.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. The biosphere healing: cracks in the earth filling with green light and roots, forests and oceans glowing softly, symbolic, no text"
+    },
+    {
+      "id": 81,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "warmth",
+      "text": "И, возможно, в её рецепте ещё есть место для человека.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A child and a grandmother under a green aurora above a snowy village, warm windows, stars, cozy and vast"
+    },
+    {
+      "id": 82,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Что если вопрос не в том, выживет ли планета, а в том, выберем ли мы жизнь в ней?",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Earth sunrise from space, blue and white marble, thin golden atmosphere, hopeful and fragile"
+    },
+    {
+      "id": 83,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "hope",
+      "text": "Напиши в комментариях: что бы ты сделал, если бы узнал, что у системы есть предел?",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. A crowd of people looking up at the sky, one child pointing, diverse silhouettes, city park, no text"
+    },
+    {
+      "id": 84,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "warmth",
+      "text": "Подписывайся на «Что если…». Следующий мир уже ждёт.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Series outro landscape: Earth in the sky above a village, Max and Babushka small silhouettes on a hill, warm light, stars appearing"
+    },
+    {
+      "id": 85,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "Планета не мстит. Она просто перестаёт быть удобной.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Close-up of Earth's surface where city and forest coexist, river winding between them, dawn light, balanced composition"
+    },
+    {
+      "id": 86,
+      "act": 5,
+      "spk": "narrator",
+      "chars": [],
+      "emotion": "calm",
+      "text": "И это, пожалуй, самый честный факт из всех.",
+      "vis": "Modern 2D animated feature film frame, Disney 2D and Klaus animation style, clean crisp dark ink outlines, smooth cel-shading, cinematic 16:9 widescreen composition, rich atmospheric lighting, volumetric light, highly detailed painted background, no text, no letters, no watermark, no logo. Earth from space at sunrise, thin atmosphere, vast black sky, quiet and honest, cinematic"
+    }
+  ]
+}

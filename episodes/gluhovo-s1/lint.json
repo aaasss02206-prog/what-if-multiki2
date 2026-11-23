@@ -1,0 +1,252 @@
+{
+  "stats": {
+    "shots": 13,
+    "seconds": 143.8,
+    "cutsPerMinuteFirst30": 8,
+    "cutsPerMinute": 5.4,
+    "characters": 1654,
+    "timing": "voice",
+    "errors": 33,
+    "warnings": 1
+  },
+  "issues": [
+    {
+      "level": "warn",
+      "shot": null,
+      "code": "TITLE",
+      "msg": "title \"7 правил на одну ночь • Серия 1: Глухово\" does not start with \"What If\"",
+      "fix": "titles in this format start with \"What If You ...\""
+    },
+    {
+      "level": "error",
+      "shot": 1,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 10.0s (limit 3.6s in the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 2,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 8.5s (limit 3.6s in the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 3,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 9.3s (limit 3.6s in the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 4,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 11.3s (limit 3.6s in the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 5,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 10.0s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 6,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 12.8s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 7,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 11.6s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 8,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 11.2s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 9,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 10.4s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 10,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 11.9s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 11,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 12.9s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 12,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 10.4s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": 13,
+      "code": "LONG_SHOT",
+      "msg": "shot stays on screen 13.3s (limit 5s after the first 30s)",
+      "fix": "split it into two shots: cut \"say\" in the middle of the sentence and change the camera, pose or background"
+    },
+    {
+      "level": "error",
+      "shot": null,
+      "code": "PACE_START",
+      "msg": "8 cuts per minute in the first 30 seconds (need 24+, target 27)",
+      "fix": "split the longest early shots; the first 30 seconds decide whether the viewer stays"
+    },
+    {
+      "level": "error",
+      "shot": null,
+      "code": "PACE",
+      "msg": "5 cuts per minute overall (need 18+)",
+      "fix": "split the longest shots"
+    },
+    {
+      "level": "error",
+      "shot": null,
+      "code": "LENGTH",
+      "msg": "episode is about 144s, target for a short episode is 55-120s",
+      "fix": "cut the weakest situations"
+    },
+    {
+      "level": "error",
+      "shot": 3,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"rules\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 4,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"small\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 5,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"rules\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 6,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"rules\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 7,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"bigger\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 8,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"dark\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 9,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"dark\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 10,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"dark\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 11,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"dark\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": 12,
+      "code": "BEAT_ORDER",
+      "msg": "beat \"dark\" comes after \"fact\"",
+      "fix": "beats go in this order: hook -> rules -> small -> bigger -> dark -> fact -> question"
+    },
+    {
+      "level": "error",
+      "shot": null,
+      "code": "STORY",
+      "msg": "only 1 shots in beat \"small\"",
+      "fix": "show at least 2 small everyday situations (3+ shots)"
+    },
+    {
+      "level": "error",
+      "shot": null,
+      "code": "STORY",
+      "msg": "only 1 shots in beat \"bigger\"",
+      "fix": "escalate: at least 2 bigger situations (3+ shots)"
+    },
+    {
+      "level": "error",
+      "shot": 2,
+      "code": "FACT_SOURCE",
+      "msg": "the fact has no on-screen source",
+      "fix": "add \"source\": \"Journal or institution, year\" to one fact shot"
+    },
+    {
+      "level": "error",
+      "shot": 13,
+      "code": "ENDING",
+      "msg": "the last line does not end with a question mark",
+      "fix": "the final line is a direct question to the viewer"
+    },
+    {
+      "level": "error",
+      "shot": 3,
+      "code": "STATIC",
+      "msg": "nothing moves in this shot",
+      "fix": "add one of: camera.move (push/pull/pan), toPose, toX, motion, a moving prop, or an fx"
+    },
+    {
+      "level": "error",
+      "shot": 6,
+      "code": "STATIC",
+      "msg": "nothing moves in this shot",
+      "fix": "add one of: camera.move (push/pull/pan), toPose, toX, motion, a moving prop, or an fx"
+    },
+    {
+      "level": "error",
+      "shot": null,
+      "code": "LOCATIONS",
+      "msg": "only 2 background(s) in the episode",
+      "fix": "each situation happens in its own place: use at least 3 backgrounds"
+    }
+  ]
+}
